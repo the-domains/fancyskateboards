@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[fancyskateboards]]></title>
         <description><![CDATA[fancyskateboards]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fancyskateboards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 01:14:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 01:20:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fancyskateboards/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://c2.staticflickr.com/4/3928/15436958735_00edda8939_o.gif">]]></description>
+            <link>https://thegrid.ai/fancyskateboards/1b329980-ced8-4621-b45c-16540c1707f9/index.html</link>
+            <guid isPermaLink="false">1b329980-ced8-4621-b45c-16540c1707f9</guid>
+            <pubDate>Wed, 03 Feb 2016 01:18:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://c2.staticflickr.com/6/5721/22209738814_348bd31f1f_o.gif">]]></description>
-            <link>undefined7748aed2-a27f-48ab-accb-8d35d02bd6cc/index.html</link>
+            <link>https://thegrid.ai/fancyskateboards/7748aed2-a27f-48ab-accb-8d35d02bd6cc/index.html</link>
             <guid isPermaLink="false">7748aed2-a27f-48ab-accb-8d35d02bd6cc</guid>
             <pubDate>Wed, 03 Feb 2016 01:14:39 GMT</pubDate>
         </item>
