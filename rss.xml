@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fancyskateboards]]></title>
+        <description><![CDATA[fancyskateboards]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 22:06:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[540 bigspin impossible]]></title>
+            <description><![CDATA[<article><h1>540 bigspin impossible</h1><p>https://c1.staticflickr.com/3/2823/12165498924_3c9b00d3e9_o.gif</p></article>]]></description>
+            <link>undefined540-bigspin-impossible/index.html</link>
+            <guid isPermaLink="false">a53efb2d-a57d-42d4-8e26-d0134f60b5e4</guid>
+            <pubDate>Tue, 15 Mar 2016 22:06:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
