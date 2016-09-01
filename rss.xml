@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[gnar shiek]]></title>
-        <description><![CDATA[gnar shiek]]></description>
+        <title><![CDATA[#fancyskateboards]]></title>
+        <description><![CDATA[#fancyskateboards]]></description>
         <link>https://thegrid.ai/fancyskateboards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 00:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 01:22:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fancyskateboards/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sailor Sam Chap.1]]></title>
+            <description><![CDATA[<article><h1>Sailor Sam Chap.1</h1><p>My first Fancy video adventure</p></article>]]></description>
+            <link>https://youtu.be/Z4V641aQHeA</link>
+            <guid isPermaLink="false">3c70f06b-08b1-4e46-a9c7-d45d9d0aaed4</guid>
+            <pubDate>Tue, 30 Aug 2016 01:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aea655f0-5657-4001-ab28-32527eb241db.png">]]></description>
+            <link>https://thegrid.ai/fancyskateboards/9a856eef-fe2a-4ffe-b4d8-0a2965e9ff97/index.html</link>
+            <guid isPermaLink="false">9a856eef-fe2a-4ffe-b4d8-0a2965e9ff97</guid>
+            <pubDate>Tue, 30 Aug 2016 01:09:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://c2.staticflickr.com/4/3928/15436958735_00edda8939_o.gif"></article>]]></description>
