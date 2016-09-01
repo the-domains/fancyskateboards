@@ -30,7 +30,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Instagram
+  - name: '@samworthisfancy'
     url: 'https://www.instagram.com/samworthisfancy/'
     type: external
   - name: Youtube
