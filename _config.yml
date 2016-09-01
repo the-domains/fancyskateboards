@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dfbfbc2-0dbb-4849-b832-32474c6afa69.png
 name: Fancy~Skateboards
 cta:
   domain: null
@@ -28,7 +30,8 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/samworthisfancy/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6800d8f7-dff5-4797-9f2e-e0fe24cd5022.ico
 title: gnar shiek
 description: '#fancyskateboards'
 purpose: []
