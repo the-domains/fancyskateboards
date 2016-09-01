@@ -4,8 +4,15 @@
         <description><![CDATA[Sam's blog]]></description>
         <link>https://thegrid.ai/fancyskateboards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 03:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 03:39:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fancyskateboards/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DSLR]]></title>
+            <description><![CDATA[<article><h1>DSLR</h1><p>P3 with Eric and Sam</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KUCDgVlrQO4</link>
+            <guid isPermaLink="false">b278c735-ae31-4a3b-9944-ff50450798f4</guid>
+            <pubDate>Tue, 30 Aug 2016 03:38:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://c1.staticflickr.com/3/2823/12165498924_3c9b00d3e9_o.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/Z4V641aQHeA</link>
             <guid isPermaLink="false">3c70f06b-08b1-4e46-a9c7-d45d9d0aaed4</guid>
             <pubDate>Tue, 30 Aug 2016 01:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aea655f0-5657-4001-ab28-32527eb241db.png">]]></description>
-            <link>https://thegrid.ai/fancyskateboards/9a856eef-fe2a-4ffe-b4d8-0a2965e9ff97/index.html</link>
-            <guid isPermaLink="false">9a856eef-fe2a-4ffe-b4d8-0a2965e9ff97</guid>
-            <pubDate>Tue, 30 Aug 2016 01:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
