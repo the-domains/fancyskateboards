@@ -1,4 +1,3 @@
-layout_spectrum: 0.9496501937974244
 typography_spectrum: 0.357108891941607
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9496501937974244
 analytics:
   google: null
   facebook: null
@@ -29,6 +29,9 @@ cta:
 navigation:
   - name: Instagram
     url: 'https://www.instagram.com/samworthisfancy/'
+    type: external
+  - name: Youtube
+    url: 'https://www.youtube.com/channel/UCM7IIxrY4NLba0ttgh4JlxA'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6800d8f7-dff5-4797-9f2e-e0fe24cd5022.ico
