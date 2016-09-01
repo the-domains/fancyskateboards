@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sam's blog]]></title>
-        <description><![CDATA[Sam's blog]]></description>
+        <title><![CDATA[Once upon a time...]]></title>
+        <description><![CDATA[Once upon a time...]]></description>
         <link>https://thegrid.ai/fancyskateboards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 03:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 04:01:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fancyskateboards/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aea655f0-5657-4001-ab28-32527eb241db.png">]]></description>
+            <link>https://thegrid.ai/fancyskateboards/9a856eef-fe2a-4ffe-b4d8-0a2965e9ff97/index.html</link>
+            <guid isPermaLink="false">9a856eef-fe2a-4ffe-b4d8-0a2965e9ff97</guid>
+            <pubDate>Tue, 30 Aug 2016 04:01:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DSLR]]></title>
-            <description><![CDATA[<article><h1>DSLR</h1><p>P3 with Eric and Sam</p></article>]]></description>
+            <description><![CDATA[<article><h1>DSLR</h1><p>P3 with Eric and Sam</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7e4aed66059e6d4e3f48e5c7a129a2c6/croprotate.jpg?cropheight=720&cropwidth=993&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FKUCDgVlrQO4%2Fmaxresdefault.jpg&x=144&y=0"></article>]]></description>
             <link>https://www.youtube.com/watch?v=KUCDgVlrQO4</link>
             <guid isPermaLink="false">b278c735-ae31-4a3b-9944-ff50450798f4</guid>
             <pubDate>Tue, 30 Aug 2016 03:38:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BIoIq7NBuCl/?taken-by=samworthisfancy</link>
             <guid isPermaLink="false">1852a902-1c9c-41d2-8369-dfa2e05107b8</guid>
             <pubDate>Tue, 30 Aug 2016 02:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sailor Sam Chap.1]]></title>
-            <description><![CDATA[<article><h1>Sailor Sam Chap.1</h1><p>My first Fancy video adventure</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/706f01c24368d33905858eb8ca21d741/croprotate.jpg?cropheight=720&cropwidth=993&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FZ4V641aQHeA%2Fmaxresdefault.jpg&x=144&y=0"></article>]]></description>
-            <link>https://youtu.be/Z4V641aQHeA</link>
-            <guid isPermaLink="false">3c70f06b-08b1-4e46-a9c7-d45d9d0aaed4</guid>
-            <pubDate>Tue, 30 Aug 2016 01:22:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
