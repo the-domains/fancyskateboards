@@ -1,19 +1,4 @@
-name: fancyskateboards
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,19 @@ color:
   lightness: 0.6531556665431708
   saturation: 0.11360357189550996
   rhythmicContrast: 0.025706948013976216
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: fancyskateboards
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
