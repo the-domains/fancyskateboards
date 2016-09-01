@@ -1,4 +1,3 @@
-layout_spectrum: 0.3146991895046085
 typography_spectrum: 0.11168457311578095
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3146991895046085
 analytics:
   google: null
   facebook: null
@@ -38,6 +38,6 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/513d79a7-fcde-44ad-bcae-f2ca1be8c4a8.png
-title: '#fancyskateboards'
+title: Sam Worth's personal line of skateboards
 description: gnar shiek
 purpose: []
